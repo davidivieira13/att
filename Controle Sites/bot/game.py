@@ -15,6 +15,7 @@ import webbrowser
 
 
 
+
 py.FAILSAFE = False
 sys.setrecursionlimit(10**9)
 var_reload = 0
