@@ -13,9 +13,6 @@ import time
 import win32gui
 import webbrowser
 
-
-
-
 py.FAILSAFE = False
 sys.setrecursionlimit(10**9)
 var_reload = 0
